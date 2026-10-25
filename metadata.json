@@ -1,0 +1,6 @@
+{
+  "name": "CarLens",
+  "description": "Detect car make, model, year, and color from photos with instant market valuation links and specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
